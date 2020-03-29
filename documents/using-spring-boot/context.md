@@ -1,21 +1,21 @@
 # Using Spring Boot
 
-## Build Systems
+### Build Systems
 
-## Structing Your Code
+### Structing Your Code
 
-## Configuration Classes
+### Configuration Classes
 
-## Auto-configuration
+### Auto-configuration
 
-## Spring Beans and Dependency Injection
+### Spring Beans and Dependency Injection
 
-## Using the @SpringBootApplication Annotation
+### Using the @SpringBootApplication Annotation
 
-## Running Your Application
+### Running Your Application
 
-## Developing Tools
+### Developing Tools
 
-## Packaging Your Application for Production
+### Packaging Your Application for Production
 
-## What to Next Read
+### What to Next Read
